@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\forecastie\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v27\\values-v27.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wycliffe pepela\\AndroidStudioProjects\\forecastie\\app\\src\\main\\res\\values-v27\\styles.xml",
+                    "from": {
+                        "startLines": "2,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,665",
+                        "endLines": "10,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "657,1221"
+                    },
+                    "to": {
+                        "startLines": "2,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,652",
+                        "endLines": "10,18",
+                        "endColumns": "12,12",
+                        "endOffsets": "647,1201"
+                    }
+                }
+            ]
+        }
+    ]
+}

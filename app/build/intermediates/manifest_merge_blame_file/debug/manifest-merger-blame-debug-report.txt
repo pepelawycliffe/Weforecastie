@@ -1,0 +1,235 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="cz.martykan.forecastie"
+4    android:versionCode="63"
+5    android:versionName="1.17.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:7:5-79
+12-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:8:5-81
+13-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:8:22-78
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:9:5-79
+14-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:9:22-76
+15    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+15-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:10:5-77
+15-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:10:22-74
+16    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+16-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:11:5-81
+16-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:11:22-78
+17
+18    <application
+18-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:13:5-119:19
+19        android:allowBackup="true"
+19-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:14:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.3.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:fullBackupContent="true"
+22-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:15:9-41
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:16:9-43
+24        android:label="@string/app_name"
+24-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:17:9-41
+25        android:supportsRtl="true"
+25-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:18:9-35
+26        android:testOnly="true" >
+27        <activity
+27-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:20:9-28:20
+28            android:name="cz.martykan.forecastie.activities.SplashActivity"
+28-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:21:13-54
+29            android:theme="@style/SplashTheme" >
+29-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:22:13-47
+30            <intent-filter>
+30-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:23:13-27:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:24:17-69
+31-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:24:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:26:17-77
+33-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:26:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:30:9-33:58
+37            android:name="cz.martykan.forecastie.activities.MainActivity"
+37-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:31:13-52
+38            android:label="@string/app_name"
+38-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:32:13-45
+39            android:theme="@style/AppTheme.NoActionBar" />
+39-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:33:13-56
+40        <activity
+40-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:35:9-39:46
+41            android:name="cz.martykan.forecastie.activities.SettingsActivity"
+41-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:36:13-56
+42            android:parentActivityName="cz.martykan.forecastie.activities.MainActivity"
+42-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:37:13-66
+43            android:theme="@style/AppTheme" />
+43-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:38:13-44
+44        <activity
+44-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:41:9-45:46
+45            android:name="cz.martykan.forecastie.activities.MapActivity"
+45-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:42:13-51
+46            android:parentActivityName="cz.martykan.forecastie.activities.MainActivity"
+46-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:43:13-66
+47            android:theme="@style/AppTheme.NoStatusBar" />
+47-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:44:13-56
+48        <activity
+48-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:47:9-52:46
+49            android:name="cz.martykan.forecastie.activities.GraphActivity"
+49-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:48:13-53
+50            android:label="@string/action_graphs"
+50-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:49:13-50
+51            android:parentActivityName="cz.martykan.forecastie.activities.MainActivity"
+51-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:50:13-66
+52            android:theme="@style/AppTheme.NoActionBar" />
+52-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:51:13-56
+53
+54        <!-- Receivers -->
+55
+56        <receiver
+56-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:57:9-65:20
+57            android:name="cz.martykan.forecastie.widgets.ExtensiveWidgetProvider"
+57-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:57:19-66
+58            android:label="@string/widget_label_extensive" >
+58-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:57:67-113
+59            <intent-filter>
+59-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:58:13-60:29
+60                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+60-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:59:17-84
+60-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:59:25-81
+61            </intent-filter>
+62
+63            <meta-data
+63-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:62:13-64:60
+64                android:name="android.appwidget.provider"
+64-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:63:17-58
+65                android:resource="@xml/extensive_widget" />
+65-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:64:17-57
+66        </receiver>
+67        <receiver
+67-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:67:9-75:20
+68            android:name="cz.martykan.forecastie.widgets.TimeWidgetProvider"
+68-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:67:19-61
+69            android:label="@string/widget_label_time" >
+69-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:67:62-103
+70            <intent-filter>
+70-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:58:13-60:29
+71                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+71-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:59:17-84
+71-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:59:25-81
+72            </intent-filter>
+73
+74            <meta-data
+74-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:62:13-64:60
+75                android:name="android.appwidget.provider"
+75-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:63:17-58
+76                android:resource="@xml/time_widget" />
+76-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:64:17-57
+77        </receiver>
+78        <receiver
+78-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:77:9-85:20
+79            android:name="cz.martykan.forecastie.widgets.SimpleWidgetProvider"
+79-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:77:19-63
+80            android:label="@string/widget_label_simple" >
+80-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:77:64-107
+81            <intent-filter>
+81-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:58:13-60:29
+82                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+82-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:59:17-84
+82-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:59:25-81
+83            </intent-filter>
+84
+85            <meta-data
+85-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:62:13-64:60
+86                android:name="android.appwidget.provider"
+86-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:63:17-58
+87                android:resource="@xml/simple_widget" />
+87-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:64:17-57
+88        </receiver>
+89        <receiver
+89-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:87:9-95:20
+90            android:name="cz.martykan.forecastie.widgets.ClassicTimeWidgetProvider"
+90-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:87:19-68
+91            android:label="@string/widget_label_classic" >
+91-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:87:69-113
+92            <intent-filter>
+92-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:58:13-60:29
+93                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+93-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:59:17-84
+93-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:59:25-81
+94            </intent-filter>
+95
+96            <meta-data
+96-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:62:13-64:60
+97                android:name="android.appwidget.provider"
+97-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:63:17-58
+98                android:resource="@xml/time_widget_classic" />
+98-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:64:17-57
+99        </receiver>
+100        <receiver android:name="cz.martykan.forecastie.AlarmReceiver" >
+100-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:97:9-104:20
+100-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:97:19-48
+101            <intent-filter>
+101-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:98:13-103:29
+102                <action android:name="android.intent.action.BOOT_COMPLETED" />
+102-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:99:17-79
+102-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:99:25-76
+103                <action android:name="android.intent.action.PACKAGE_REPLACED" />
+103-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:100:17-81
+103-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:100:25-78
+104                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+104-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:101:17-79
+104-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:101:25-76
+105                <action android:name="android.intent.action.LOCALE_CHANGED" />
+105-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:102:17-79
+105-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:102:25-76
+106            </intent-filter>
+107        </receiver>
+108
+109        <!-- Services -->
+110
+111        <service
+111-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:109:9-111:77
+112            android:name="cz.martykan.forecastie.notifications.WeatherNotificationService"
+112-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:109:18-74
+113            android:description="@string/notification_service_description"
+113-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:111:13-75
+114            android:exported="false" />
+114-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:110:13-37
+115
+116        <!-- Providers -->
+117
+118        <provider
+118-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:115:9-118:39
+119            android:name="cz.martykan.forecastie.utils.StubContentProvider"
+119-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:116:13-76
+120            android:authorities="cz.martykan.forecastie.authority"
+120-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:117:13-67
+121            android:exported="true" />
+121-->C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:118:13-36
+122        <provider
+122-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+123            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+123-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+124            android:authorities="cz.martykan.forecastie.lifecycle-process"
+124-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+125            android:exported="false"
+125-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+126            android:multiprocess="true" />
+126-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+127    </application>
+128
+129</manifest>

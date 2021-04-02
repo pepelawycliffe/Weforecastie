@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "cz.martykan.forecastie",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "INSTANT_APP_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 63,
+        "versionName": "1.17.2",
+        "outputFile": "app-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "cz.martykan.forecastie",
+        "split": "",
+        "minSdkVersion": "15"
+      }
+    }
+  ]
+}

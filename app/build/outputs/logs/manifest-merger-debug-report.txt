@@ -1,0 +1,331 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:2:1-120:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\86e1e5d883ec66c1063a0d9a82a27792\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\fee048776b4040c0a73e83e4303a6cff\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\ffb6a67829fa40d4c0493cb7e147e8f7\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\65b26ec11e574f5d68d3fe93c8217bcb\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\6e57c04e98c372fcd8878b95a3d5645d\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\547db4cebdfc068394a5645d2650d6b8\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\db95b54e52e838ca6dc927129ccd5b36\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.diogobernardino:williamchart:2.2] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\0c89adde1365b1f76c45b3ca432a8609\jetified-williamchart-2.2\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\bf96d2b5a86ecd602a621e7e96856420\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\e491b027066b482b439af311917e1339\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\65d4929e050083ea965101b359717f6c\fragment-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\0b3eeae4c45c19949f040ae2f0516871\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\ee9b51f71825564f346013ea1d4d0318\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\32488318cfc756fa0f6ae91e625fa530\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\0878a65179abd6a1b5016c6981bce614\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\2d2a73585fe4f95076865d735ed19c29\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\0d1a9c98c7596d60a130b82ff3e1130c\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\46988bf365f6f851b8bbe2afbd38550b\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\ca252fa73e09636044a7852a7fb0d4dc\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\daf177656a92c215e84d6cc1989ab47b\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\336e4d7f5d818582899034e03216341f\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\e737982ea91fdf7ea321d344c75db0be\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\86f8c8e32c7613bbe5e86eb4377e9413\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\eaa1cbe2ef40ba62ba3fc8b8fb69519a\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\1e0614212b25f4ae67724a3587ed8129\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:2:1-120:12
+	package
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:2:1-120:12
+		INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:2:1-120:12
+		INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:10:22-74
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:11:22-78
+application
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:13:5-119:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\86e1e5d883ec66c1063a0d9a82a27792\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\86e1e5d883ec66c1063a0d9a82a27792\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\fee048776b4040c0a73e83e4303a6cff\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\fee048776b4040c0a73e83e4303a6cff\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\db95b54e52e838ca6dc927129ccd5b36\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\db95b54e52e838ca6dc927129ccd5b36\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:17:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:14:9-35
+activity#cz.martykan.forecastie.activities.SplashActivity
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:theme
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:21:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:26:27-74
+activity#cz.martykan.forecastie.activities.MainActivity
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:30:9-33:58
+	android:label
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:32:13-45
+	android:theme
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:31:13-52
+activity#cz.martykan.forecastie.activities.SettingsActivity
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:35:9-39:46
+	android:parentActivityName
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:37:13-66
+	tools:ignore
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:39:13-43
+	android:theme
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:36:13-56
+activity#cz.martykan.forecastie.activities.MapActivity
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:41:9-45:46
+	android:parentActivityName
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:43:13-66
+	tools:ignore
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:45:13-43
+	android:theme
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:42:13-51
+activity#cz.martykan.forecastie.activities.GraphActivity
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:47:9-52:46
+	android:parentActivityName
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:50:13-66
+	android:label
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:49:13-50
+	tools:ignore
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:52:13-43
+	android:theme
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:48:13-53
+receiver#cz.martykan.forecastie.widgets.ExtensiveWidgetProvider
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:57:9-65:20
+	android:label
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:57:67-113
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:57:19-66
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:58:13-60:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:59:17-84
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:59:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:62:13-64:60
+	android:resource
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:64:17-57
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:63:17-58
+receiver#cz.martykan.forecastie.widgets.TimeWidgetProvider
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:67:9-75:20
+	android:label
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:67:62-103
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:67:19-61
+receiver#cz.martykan.forecastie.widgets.SimpleWidgetProvider
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:77:9-85:20
+	android:label
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:77:64-107
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:77:19-63
+receiver#cz.martykan.forecastie.widgets.ClassicTimeWidgetProvider
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:87:9-95:20
+	android:label
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:87:69-113
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:87:19-68
+receiver#cz.martykan.forecastie.AlarmReceiver
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:97:9-104:20
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:97:19-48
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.LOCALE_CHANGED+action:name:android.intent.action.PACKAGE_REPLACED+action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:98:13-103:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:99:17-79
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:99:25-76
+action#android.intent.action.PACKAGE_REPLACED
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:100:17-81
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:100:25-78
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:101:17-79
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:101:25-76
+action#android.intent.action.LOCALE_CHANGED
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:102:17-79
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:102:25-76
+service#cz.martykan.forecastie.notifications.WeatherNotificationService
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:109:9-111:77
+	android:exported
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:110:13-37
+	android:description
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:111:13-75
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:109:18-74
+provider#cz.martykan.forecastie.utils.StubContentProvider
+ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:115:9-118:39
+	android:authorities
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:117:13-67
+	android:exported
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:118:13-36
+	android:name
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml:116:13-76
+uses-sdk
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\86e1e5d883ec66c1063a0d9a82a27792\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\86e1e5d883ec66c1063a0d9a82a27792\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\fee048776b4040c0a73e83e4303a6cff\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\fee048776b4040c0a73e83e4303a6cff\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\ffb6a67829fa40d4c0493cb7e147e8f7\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\ffb6a67829fa40d4c0493cb7e147e8f7\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\65b26ec11e574f5d68d3fe93c8217bcb\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\65b26ec11e574f5d68d3fe93c8217bcb\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\6e57c04e98c372fcd8878b95a3d5645d\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\6e57c04e98c372fcd8878b95a3d5645d\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\547db4cebdfc068394a5645d2650d6b8\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\547db4cebdfc068394a5645d2650d6b8\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\db95b54e52e838ca6dc927129ccd5b36\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\db95b54e52e838ca6dc927129ccd5b36\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.diogobernardino:williamchart:2.2] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\0c89adde1365b1f76c45b3ca432a8609\jetified-williamchart-2.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.diogobernardino:williamchart:2.2] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\0c89adde1365b1f76c45b3ca432a8609\jetified-williamchart-2.2\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\bf96d2b5a86ecd602a621e7e96856420\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\bf96d2b5a86ecd602a621e7e96856420\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\e491b027066b482b439af311917e1339\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\e491b027066b482b439af311917e1339\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\65d4929e050083ea965101b359717f6c\fragment-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\65d4929e050083ea965101b359717f6c\fragment-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\0b3eeae4c45c19949f040ae2f0516871\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\0b3eeae4c45c19949f040ae2f0516871\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\ee9b51f71825564f346013ea1d4d0318\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\ee9b51f71825564f346013ea1d4d0318\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\32488318cfc756fa0f6ae91e625fa530\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\32488318cfc756fa0f6ae91e625fa530\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\0878a65179abd6a1b5016c6981bce614\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\0878a65179abd6a1b5016c6981bce614\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\2d2a73585fe4f95076865d735ed19c29\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\2d2a73585fe4f95076865d735ed19c29\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\0d1a9c98c7596d60a130b82ff3e1130c\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\0d1a9c98c7596d60a130b82ff3e1130c\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\46988bf365f6f851b8bbe2afbd38550b\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\46988bf365f6f851b8bbe2afbd38550b\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\ca252fa73e09636044a7852a7fb0d4dc\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\ca252fa73e09636044a7852a7fb0d4dc\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\daf177656a92c215e84d6cc1989ab47b\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\daf177656a92c215e84d6cc1989ab47b\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\336e4d7f5d818582899034e03216341f\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\336e4d7f5d818582899034e03216341f\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\e737982ea91fdf7ea321d344c75db0be\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\e737982ea91fdf7ea321d344c75db0be\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\86f8c8e32c7613bbe5e86eb4377e9413\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\86f8c8e32c7613bbe5e86eb4377e9413\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\eaa1cbe2ef40ba62ba3fc8b8fb69519a\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\eaa1cbe2ef40ba62ba3fc8b8fb69519a\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\1e0614212b25f4ae67724a3587ed8129\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\1e0614212b25f4ae67724a3587ed8129\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wycliffe pepela\AndroidStudioProjects\forecastie\app\src\main\AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wycliffe pepela\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
